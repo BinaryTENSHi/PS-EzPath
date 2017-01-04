@@ -1,6 +1,8 @@
 # EzPath
 An 'ez' PATH manager for PowerShell 5.0
 
+![Example usage](http://i.imgur.com/TxdEO7a.png)
+
 ## Installation
 Run in PowerShell 5.0
 ```
