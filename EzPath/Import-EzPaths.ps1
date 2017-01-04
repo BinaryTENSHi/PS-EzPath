@@ -4,7 +4,7 @@ function Import-EzPaths () {
     # JSON File to import
     [Parameter(Mandatory = $False)]
     [String]
-    $JsonFile = (Join-Path "$HOME" "ezpaths.json"),
+    $JsonFile = (Join-Path "$HOME" ".ezpaths.json"),
 
     # Clear before importing
     [Parameter(Mandatory = $False)]
