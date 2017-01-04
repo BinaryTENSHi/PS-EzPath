@@ -12,7 +12,7 @@
 RootModule = 'EzPath.psm1'
 
 # Version number of this module.
-ModuleVersion = '0.1'
+ModuleVersion = '0.2'
 
 # ID used to uniquely identify this module
 GUID = '87c6dedf-73df-4d8b-bdf3-a410adcf5c40'
